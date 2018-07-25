@@ -5,6 +5,7 @@ class radio_button_tag
   def sit 
     puts "The Dog is sitting"
   end
+  end
 end
 
 
